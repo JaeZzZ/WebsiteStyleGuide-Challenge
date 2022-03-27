@@ -174,13 +174,13 @@ ul li {
 
 footer {
   height: 90px;
-  text-align: center;
 }
 
 footer p {
   font-weight: bold;
   padding-top: 15px;
   font-size: 20px;
+  text-align: center;
 }
 
 footer a {
